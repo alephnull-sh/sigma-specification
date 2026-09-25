@@ -391,7 +391,7 @@ The field names follow the field names used in [Sysmon](https://docs.microsoft.c
 | Company           | Google Inc.                                                                               |         |
 | OriginalFileName  | GoogleUpdate.exe                                                                          |         |
 | CommandLine       | "C:\\Program Files (x86)\\Google\\Update\\GoogleUpdate.exe" /ua /installsource scheduler  |         |
-| CurrentDirectory  | C:\\Windows\\system32\|                                                                   |         |
+| CurrentDirectory  | C:\\Windows\\system32                                                                     |         |
 | User              | NT AUTHORITY\\SYSTEM                                                                      |         |
 | LogonGuid         | {c1b49677-3fb9-5c09-0000-0020e7030000}                                                    |         |
 | LogonId           | 0x3e7                                                                                     |         |
